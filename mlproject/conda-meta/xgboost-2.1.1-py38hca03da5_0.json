@@ -1,0 +1,34 @@
+{
+  "build": "py38hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "py-xgboost 2.1.1 py38hca03da5_0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Applications/anaconda3/pkgs/xgboost-2.1.1-py38hca03da5_0",
+  "files": [],
+  "fn": "xgboost-2.1.1-py38hca03da5_0.conda",
+  "legacy_bz2_md5": "2ac97e03c23a9c94c2201c3b607bce93",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Applications/anaconda3/pkgs/xgboost-2.1.1-py38hca03da5_0",
+    "type": 1
+  },
+  "md5": "5eba18252253eefffb0ecbd31d5b2bbc",
+  "name": "xgboost",
+  "package_tarball_full_path": "/Applications/anaconda3/pkgs/xgboost-2.1.1-py38hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "xgboost",
+  "sha256": "8057d8fa1384900c1695fffd9c710d0a1f3fa0b3e0f05ffd22b472f7b6c68a9e",
+  "size": 12276,
+  "subdir": "osx-arm64",
+  "timestamp": 1724073952518,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/xgboost-2.1.1-py38hca03da5_0.conda",
+  "version": "2.1.1"
+}
